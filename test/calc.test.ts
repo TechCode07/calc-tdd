@@ -1,4 +1,4 @@
-import add from 'calculationfile';
+import add from '../service/calc';
 
 describe('add function', () => {
     test('should handle comma-separated numbers', () => {
